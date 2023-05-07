@@ -21,7 +21,7 @@ My main areas of expertise include:
 - Front-End Development: I have experience working with ReactJS and I am proficient in using Typescript, JavaScript, HTML, and CSS with SCSS for creating responsive and user-friendly interfaces.
 - UI/UX Design: As a former Product Design Engineer, I have a keen eye for design and a deep understanding of user-centered design principles.
 - Product Development: I have worked on various front-end related tasks for clients' products, ranging from website design to creating reusable components.
-- Gaming: I like to identify opportunities and create web tools that help, like the ones in [Nagis-Tools]([https://www.linkedin.com/in/andrespatino1993/](https://github.com/apatinoc4/nagis-tools)).
+- Gaming: I like to identify opportunities and create web tools that help, like the ones in [Nagis-Tools](https://github.com/apatinoc4/nagis-tools).
 
 ## Work Experience
 
