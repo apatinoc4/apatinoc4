@@ -9,7 +9,7 @@ My name is Andres Patiño, and I'm a front-end developer and former Product Desi
 I specialize in front-end development using modern web technologies. My experience includes:
 
 - Programming Languages: JavaScript (ES6+), TypeScript
-- Web Frameworks: ReactJS, Redux
+- Web Frameworks: ReactJS
 - Markup and Styling: HTML5, CSS3, SCSS
 - Tools: Git, Webpack, Babel
 - Methodologies: Agile, Scrum
